@@ -1,0 +1,38 @@
+.wd-50 {
+  max-width: 750px;
+}
+
+.btn-center {
+  display: flex;
+  margin: auto;
+  width: 226px;
+  height: 63px;
+  font-size: 25px;
+  border-radius: 10px;
+  color: black;
+  background-color: #92c7cf;
+  justify-content: center;
+  border: none;
+  align-items: center;
+  padding-top: 5px;
+}
+
+.wd-50 input {
+  width: 748px;
+  height: 81px;
+  font-size: 21px;
+  padding-left: 15px;
+  margin-top: 0px;
+  margin-bottom: 14px;
+}
+.wd-50 input::placeholder {
+  opacity: 40%;
+}
+.wd-50 label {
+  font-size: 25px;
+  padding-left: 10px;
+}
+
+.br-10 {
+  border-radius: 30px;
+}

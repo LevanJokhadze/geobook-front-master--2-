@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  background-color: #E5E1DA;
+  font-family: 'mtavruli';
+}
+
+@font-face {
+  font-family: 'mtavruli';
+  src: url("./fonts/bpg_nino_mtavruli_normal.otf");
+}
+
+li::marker {
+  font-size: 24px;
+}
+*{
+  border: 0 solid #e5e5e500;
+}
+
+.ch rect:first-child{
+  fill: #e5e5e500;
+}
+
+.ch g g rect:first-child{
+  fill: rgb(174 202 210 / 65%);
+}

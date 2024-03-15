@@ -1,0 +1,67 @@
+.css-1gyej37{
+    grid-template-columns: 17.5% repeat(1, 1fr)!important;
+}
+.css-c1zrq3-MuiListItem-root .css-1e9lk82-MuiListItemAvatar-root, .css-ra1qip-MuiListItem-root .css-1e9lk82-MuiListItemAvatar-root{
+    display: none;
+}
+
+.css-konndc-MuiListItemText-root{
+    text-align: center;
+}
+
+.css-z1doim-MuiTypography-root {
+    font-weight: 600!important;
+    font-size: 19px!important;
+}
+
+.css-1d8d7kz-MuiPaper-root{
+    background-color: transparent!important;
+}
+
+.css-1d1h06e .rs__cell, .css-1gyej37 .rs__cell,.css-73xuqe{
+    background:transparent!important;
+}
+
+.css-1gyej37 .rs__cell, .css-1d1h06e, .css-c1zrq3-MuiListItem-root, .css-73xuqe .tabs, .css-73xuqe .tabs button.MuiTab-root, .css-1d1h06e .rs__cell, .css-lap9uk{
+    border-color: #454545!important;
+}
+.css-1d1h06e:first-of-type {
+    border-width: 1px 1px 1px 1px !important;
+}
+.css-1gyej37 .rs__cell{
+    border-width: 0 1px 1px 1px!important;
+}
+.css-1gyej37:last-of-type {
+    border-width: 0 0 0px 0px!important;
+    border-color: #454545!important;
+}
+.css-1d1h06e .rs__cell{
+    border-width: 0px 0px 1px 0px!important;
+    text-align: center;
+}
+
+.css-73xuqe .css-1d1h06e .rs__cell{
+    border-width:0px 0px 0px 0px!important;
+
+}
+
+.css-73xuqe .css-1d1h06e .rs__cell.rs__header {
+    border-width: 0px 1px 1px 0px !important;
+}
+.css-lap9uk{
+    border-width: 1px 1px 0px 1px!important;
+}
+.css-1d1h06e{
+    grid-template-columns: 0% repeat(1, 1fr)!important;
+}
+
+
+.css-vkc4v8-MuiTypography-root{
+    margin-left: 2px!important;
+}
+
+.css-145v6pe-MuiButtonBase-root-MuiTabScrollButton-root.Mui-disabled{
+    cursor: pointer!important;
+    pointer-events: visible!important;
+    opacity: 1!important;
+}
